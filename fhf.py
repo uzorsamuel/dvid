@@ -9,6 +9,7 @@ igbo_dictionary = {
     'efere': "plate",
     'chineke': "Jesus",
     'biko': "please",
+    'ewu': "goat",
 }
 
 word = input('enter an igbo word: ')
